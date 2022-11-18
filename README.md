@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on DigEvol.AI🧠<br>🤝 I’m looking for help with a project on blockchain😥<br>🌱 I’m currently learning Blockchain🧱🔗<br>💬 Ask me about React and React Native⚛️<br>⚡ Fun fact I love Football and GOT🐺⚽🐲
+🔭 I’m currently working in DigEvol.AI🧠<br>🤝 I’m looking for help on a project of blockchain called instPay😥<br>🌱 I’m currently learning Blockchain🧱🔗<br>💬 Ask me about React and React Native⚛️<br>⚡ Fun fact I love Football and GOT🐺⚽🐲
+
 
 
 ## 🌐 Socials:
