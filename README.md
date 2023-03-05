@@ -13,8 +13,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haris-ali9211&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haris-ali9211&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haris-ali9211&show_icons=true&theme=tokyonight&layout=compact&hide=javascript)](https://github.com/haris-ali9211/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haris-ali9211&show_icons=true&theme=tokyonight&layout=compact&hide=javascript)](https://github.com/haris-ali9211/github-readme-stats)
+ -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
